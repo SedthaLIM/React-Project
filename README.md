@@ -1,2 +1,2 @@
 # React-Project
-This project is built using React  
+The projects in this repository is built using React  
